@@ -1,0 +1,12 @@
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\bin\Debug\net6.0\FA.JustBlog.Common.deps.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\bin\Debug\net6.0\FA.JustBlog.Common.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\FA.JustBlog.Common.csproj.AssemblyReference.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\FA.JustBlog.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\FA.JustBlog.Common.AssemblyInfoInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\FA.JustBlog.Common.AssemblyInfo.cs
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\FA.JustBlog.Common.csproj.CoreCompileInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\FA.JustBlog.Common.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\refint\FA.JustBlog.Common.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\FA.JustBlog.Common.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Common\obj\Debug\net6.0\ref\FA.JustBlog.Common.dll

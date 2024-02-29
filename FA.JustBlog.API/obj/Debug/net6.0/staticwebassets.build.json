@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aVXMpwhtwYEzXP3LQkjOEEay717atN9ZWwDvI770Edc=",
+  "Source": "FA.JustBlog.API",
+  "BasePath": "_content/FA.JustBlog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

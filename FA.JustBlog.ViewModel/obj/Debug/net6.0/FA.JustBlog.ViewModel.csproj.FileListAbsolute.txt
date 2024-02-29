@@ -1,0 +1,17 @@
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\bin\Debug\net6.0\FA.JustBlog.ViewModel.deps.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\bin\Debug\net6.0\FA.JustBlog.ViewModel.runtimeconfig.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\bin\Debug\net6.0\FA.JustBlog.ViewModel.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\bin\Debug\net6.0\FA.JustBlog.ViewModel.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\bin\Debug\net6.0\FA.JustBlog.Entities.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\bin\Debug\net6.0\FA.JustBlog.Entities.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.csproj.AssemblyReference.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.AssemblyInfoInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.AssemblyInfo.cs
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.csproj.CoreCompileInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.csproj.CopyComplete
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\refint\FA.JustBlog.ViewModel.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\FA.JustBlog.ViewModel.genruntimeconfig.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.ViewModel\obj\Debug\net6.0\ref\FA.JustBlog.ViewModel.dll

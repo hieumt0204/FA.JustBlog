@@ -1,0 +1,14 @@
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\bin\Debug\net6.0\FA.JustBlog.Entities.deps.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\bin\Debug\net6.0\FA.JustBlog.Entities.runtimeconfig.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\bin\Debug\net6.0\FA.JustBlog.Entities.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\bin\Debug\net6.0\FA.JustBlog.Entities.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\FA.JustBlog.Entities.csproj.AssemblyReference.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\FA.JustBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\FA.JustBlog.Entities.AssemblyInfoInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\FA.JustBlog.Entities.AssemblyInfo.cs
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\FA.JustBlog.Entities.csproj.CoreCompileInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\FA.JustBlog.Entities.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\refint\FA.JustBlog.Entities.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\FA.JustBlog.Entities.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\FA.JustBlog.Entities.genruntimeconfig.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\05-MVC\Project Final\FA.JustBlog\FA.JustBlog.Entities\obj\Debug\net6.0\ref\FA.JustBlog.Entities.dll
